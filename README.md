@@ -1,4 +1,4 @@
-### <div align="center">I'm Carlos Ivan Soto, a full-time full-stack developer 👨‍💻 working at leche bell 🚀</div>  
+### <div align="center">I'm Carlos Ivan Soto, a full-time full-stack developer 👨‍💻 working at Gales Corp. 🚀</div>  
   
 
 - 🔭  I’m looking to collaborate on mobile development projects  
